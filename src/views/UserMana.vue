@@ -1,7 +1,7 @@
 <template>
   <div>
     <el-input
-      class="input-st"
+      class="input-style"
       v-model="input"
       placeholder="请输入内容"
     ></el-input>
